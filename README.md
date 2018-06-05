@@ -1,4 +1,5 @@
 # swarmprom
+powered by: https://github.com/stefanprodan/swarmprom
 
 Swarmprom is a starter kit for Docker Swarm monitoring with [Prometheus](https://prometheus.io/), 
 [Grafana](http://grafana.org/), 
